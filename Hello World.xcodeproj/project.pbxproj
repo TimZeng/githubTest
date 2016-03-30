@@ -13,6 +13,8 @@
 		FBBE3A8A1BA264DB0049F70A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FBBE3A891BA264DB0049F70A /* Images.xcassets */; };
 		FBBE3A8D1BA264DB0049F70A /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = FBBE3A8B1BA264DB0049F70A /* LaunchScreen.xib */; };
 		FBBE3A991BA264DB0049F70A /* Hello_WorldTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBBE3A981BA264DB0049F70A /* Hello_WorldTests.swift */; };
+		FBBE3AA31BA289C70049F70A /* Iron Man Image.png in Resources */ = {isa = PBXBuildFile; fileRef = FBBE3AA21BA289C70049F70A /* Iron Man Image.png */; };
+		FBBE3AA51BA28A150049F70A /* Black Widow Image.png in Resources */ = {isa = PBXBuildFile; fileRef = FBBE3AA41BA28A150049F70A /* Black Widow Image.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		FBBE3A921BA264DB0049F70A /* Hello WorldTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Hello WorldTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		FBBE3A971BA264DB0049F70A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FBBE3A981BA264DB0049F70A /* Hello_WorldTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hello_WorldTests.swift; sourceTree = "<group>"; };
+		FBBE3AA21BA289C70049F70A /* Iron Man Image.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Iron Man Image.png"; sourceTree = "<group>"; };
+		FBBE3AA41BA28A150049F70A /* Black Widow Image.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Black Widow Image.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +83,8 @@
 			children = (
 				FBBE3A821BA264DB0049F70A /* AppDelegate.swift */,
 				FBBE3A841BA264DB0049F70A /* ViewController.swift */,
+				FBBE3AA21BA289C70049F70A /* Iron Man Image.png */,
+				FBBE3AA41BA28A150049F70A /* Black Widow Image.png */,
 				FBBE3A861BA264DB0049F70A /* Main.storyboard */,
 				FBBE3A891BA264DB0049F70A /* Images.xcassets */,
 				FBBE3A8B1BA264DB0049F70A /* LaunchScreen.xib */,
@@ -192,7 +198,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FBBE3AA31BA289C70049F70A /* Iron Man Image.png in Resources */,
 				FBBE3A881BA264DB0049F70A /* Main.storyboard in Resources */,
+				FBBE3AA51BA28A150049F70A /* Black Widow Image.png in Resources */,
 				FBBE3A8D1BA264DB0049F70A /* LaunchScreen.xib in Resources */,
 				FBBE3A8A1BA264DB0049F70A /* Images.xcassets in Resources */,
 			);
